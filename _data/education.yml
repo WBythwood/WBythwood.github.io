@@ -1,0 +1,17 @@
+# Education Template
+- layout: left
+  name: University of North Florida
+  dates: 2016-2019
+  qualification: Bachelor of Science, Computer and Information Sciences
+  quote: >
+    Concentration: Information Technology
+  description: | # this will include new lines to allow paragraphs
+    Coursework focused on Computer Networking and CyberSecurity. In these classes I used Kali Linux and Ubuntu. I used <mark>Python</mark> and <mark>Scapy</mark> to forge packets. I used <mark>WireShark</mark> for packet analysis. I also learned <mark>Java</mark> and Web Design.
+- layout: left  
+  name: University of North Florida
+  dates: 2020-
+  qualification: Master's of Science, Computer and Information Sciences
+  quote: >
+    Concentration: Software Engineering
+  description: | # this will include new lines to allow paragraphs
+    Coursework includes Requirements Engineering and the Software Development lifecycle. I am enrolled in the Master's Thesis option for this course.

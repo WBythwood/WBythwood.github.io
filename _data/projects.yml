@@ -1,0 +1,9 @@
+# Project template
+- layout: top-middle
+  name: BlueTrivia
+  link: https://github.com/WBythwood/BlueTrivia
+  github: 
+  quote: >
+    Android Quiz App
+  description: | # this will include new lines to allow paragraphs
+    I used <mark>Firebase</mark> to store multiple choice quiz questions. I used Android Studio and XML to create the app. Once a quiz is completed the total questions correct and incorrect are displayed. 
